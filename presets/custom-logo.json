@@ -1,0 +1,53 @@
+{
+    "default_model": "sd_xl_base_1.0.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            true,
+            "LogoRedmondV2-Logo-LogoRedmAF.safetensors",
+            0.9
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 3.0,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_scheduler": "karras",
+    "default_performance": "Speed",
+    "default_prompt": "",
+    "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga",
+    "default_styles": [
+        "Fooocus V2",
+        "Fooocus Photograph",
+        "Fooocus Negative"
+    ],
+    "default_aspect_ratio": "896*1152",
+    "checkpoint_downloads": {
+        "sd_xl_base_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/sd_xl_base_1.0.safetensors"
+    },
+	"lora_downloads": {
+        "LogoRedmondV2-Logo-LogoRedmAF.safetensors": "https://huggingface.co/frankjoshua/LogoRedmondV2-Logo-LogoRedmAF/blob/main/LogoRedmondV2-Logo-LogoRedmAF.safetensors"
+    },
+    "embeddings_downloads": {},
+    "previous_default_models": ["realisticStockPhoto_v10.safetensors"]
+}
