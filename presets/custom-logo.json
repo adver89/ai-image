@@ -43,10 +43,10 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "sd_xl_base_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/raw/main/sd_xl_base_1.0.safetensors"
+        "sd_xl_base_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors?download=true"
     },
 	"lora_downloads": {
-        "LogoRedmondV2-Logo-LogoRedmAF.safetensors": "https://huggingface.co/frankjoshua/LogoRedmondV2-Logo-LogoRedmAF/raw/main/LogoRedmondV2-Logo-LogoRedmAF.safetensors"
+        "LogoRedmondV2-Logo-LogoRedmAF.safetensors": "https://huggingface.co/frankjoshua/LogoRedmondV2-Logo-LogoRedmAF/resolve/main/LogoRedmondV2-Logo-LogoRedmAF.safetensors?download=true"
     },
     "embeddings_downloads": {},
     "previous_default_models": ["realisticStockPhoto_v10.safetensors"]
