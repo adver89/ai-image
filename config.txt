@@ -1,14 +1,4 @@
 {
-    "path_checkpoints": "C:\\workspace\\img-ai\\Fooocus\\models\\checkpoints",
-    "path_loras": "C:\\workspace\\img-ai\\Fooocus\\models\\loras",
-    "path_embeddings": "C:\\workspace\\img-ai\\Fooocus\\models\\embeddings",
-    "path_vae_approx": "C:\\workspace\\img-ai\\Fooocus\\models\\vae_approx",
-    "path_upscale_models": "C:\\workspace\\img-ai\\Fooocus\\models\\upscale_models",
-    "path_inpaint": "C:\\workspace\\img-ai\\Fooocus\\models\\inpaint",
-    "path_controlnet": "C:\\workspace\\img-ai\\Fooocus\\models\\controlnet",
-    "path_clip_vision": "C:\\workspace\\img-ai\\Fooocus\\models\\clip_vision",
-    "path_fooocus_expansion": "C:\\workspace\\img-ai\\Fooocus\\models\\prompt_expansion\\fooocus_expansion",
-    "path_outputs": "C:\\workspace\\img-ai\\Fooocus\\outputs",
 	"available_aspect_ratios": [
         "704*1408",
         "704*1344",
@@ -37,6 +27,14 @@
         "1664*576",
         "1728*576",
 		"1920*1080",
-		"1640*924"
-    ]
+		"1640*924",
+		"820*461"
+    ],
+	"checkpoint_downloads": {
+		"Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XL-v9/resolve/main/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors?download=true"
+    },
+    "lora_downloads": {
+		"LogoRedmondV2-Logo-LogoRedmAF.safetensors": "https://huggingface.co/frankjoshua/LogoRedmondV2-Logo-LogoRedmAF/resolve/main/LogoRedmondV2-Logo-LogoRedmAF.safetensors?download=true",
+        "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors"
+    }
 }
