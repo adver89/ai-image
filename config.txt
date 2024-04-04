@@ -1,14 +1,14 @@
 {
-	"path_checkpoints": "content\\Fooocus\\models\\checkpoints",
-    "path_loras": "content\\Fooocus\\models\\loras",
-    "path_embeddings": "content\\Fooocus\\models\\embeddings",
-    "path_vae_approx": "content\\Fooocus\\models\\vae_approx",
-    "path_upscale_models": "content\\Fooocus\\models\\upscale_models",
-    "path_inpaint": "content\\Fooocus\\models\\inpaint",
-    "path_controlnet": "content\\Fooocus\\models\\controlnet",
-    "path_clip_vision": "content\\Fooocus\\models\\clip_vision",
-    "path_fooocus_expansion": "content\\Fooocus\\models\\prompt_expansion\\fooocus_expansion",
-    "path_outputs": "content\\Fooocus\\outputs",
+	"path_checkpoints": "\\content\\Fooocus\\models\\checkpoints",
+    "path_loras": "\\content\\Fooocus\\models\\loras",
+    "path_embeddings": "\\content\\Fooocus\\models\\embeddings",
+    "path_vae_approx": "\\content\\Fooocus\\models\\vae_approx",
+    "path_upscale_models": "\\content\\Fooocus\\models\\upscale_models",
+    "path_inpaint": "\\content\\Fooocus\\models\\inpaint",
+    "path_controlnet": "\\content\\Fooocus\\models\\controlnet",
+    "path_clip_vision": "\\content\\Fooocus\\models\\clip_vision",
+    "path_fooocus_expansion": "\\content\\Fooocus\\models\\prompt_expansion\\fooocus_expansion",
+    "path_outputs": "\\content\\Fooocus\\outputs",
 	"available_aspect_ratios": [
         "704*1408",
         "704*1344",
@@ -41,7 +41,8 @@
 		"820*461"
     ],
 	"checkpoint_downloads": {
-		"Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XL-v9/resolve/main/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors?download=true"
+		"Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XL-v9/resolve/main/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors?download=true",
+		"juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
     },
     "lora_downloads": {
 		"LogoRedmondV2-Logo-LogoRedmAF.safetensors": "https://huggingface.co/frankjoshua/LogoRedmondV2-Logo-LogoRedmAF/resolve/main/LogoRedmondV2-Logo-LogoRedmAF.safetensors?download=true",
