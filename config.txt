@@ -39,7 +39,10 @@
 		"1920*1080",
 		"1640*924",
 		"820*461",
-		"1640*922"
+		"1640*922",
+		"1880*696",
+		"940*348",
+		"1640*856"
     ],
 	"checkpoint_downloads": {
 		"Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XL-v9/resolve/main/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors?download=true",
