@@ -37,15 +37,11 @@
         "1664*576",
         "1728*576",
 		"1920*1080",
-		"1640*924",
-		"820*461",
-		"1640*922",
-		"1880*696",
-		"1640*856"
+		"1620*600"
     ],
 	"checkpoint_downloads": {
 		"Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XL-v9/resolve/main/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors?download=true",
-		"juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
+		"Realistic_Vision_V6.0_NV_B1.safetensors": "https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE/resolve/main/Realistic_Vision_V6.0_NV_B1.safetensors?download=true"
     },
     "lora_downloads": {
 		"LogoRedmondV2-Logo-LogoRedmAF.safetensors": "https://huggingface.co/frankjoshua/LogoRedmondV2-Logo-LogoRedmAF/resolve/main/LogoRedmondV2-Logo-LogoRedmAF.safetensors?download=true",
