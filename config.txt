@@ -41,7 +41,7 @@
     ],
 	"checkpoint_downloads": {
 		"Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XL-v9/resolve/main/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors?download=true",
-		"Realistic_Vision_V6.0_NV_B1.safetensors": "https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE/resolve/main/Realistic_Vision_V6.0_NV_B1.safetensors?download=true"
+		"Realistic_Vision_V6.0_B1.safetensors": "https://civitai.com/api/download/models/245598?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "lora_downloads": {
 		"LogoRedmondV2-Logo-LogoRedmAF.safetensors": "https://huggingface.co/frankjoshua/LogoRedmondV2-Logo-LogoRedmAF/resolve/main/LogoRedmondV2-Logo-LogoRedmAF.safetensors?download=true",
